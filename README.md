@@ -2,7 +2,7 @@
 All files are taken from the Udemy course, 'Python for Time Series Data Analysis', by Jose Portilla.
 
 ### Time Series with Pandas
-  1/ Time Series overview
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1/ Time Series overview
 
   2/ DateTime Index
 
