@@ -3,10 +3,15 @@ All files are taken from the Udemy course, 'Python for Time Series Data Analysis
 
 ### Time Series with Pandas
 1/ Time Series overview
+
 2/ DateTime Index
+
 3/ Time Resampling
+
 4/ Time Shifting
+
 5/ Rolling and Expanding
+
 6/ Visualing Time Series
 
 ### Time Series with Statsmodels
