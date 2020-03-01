@@ -1,6 +1,13 @@
 # Time-Series
 All files are taken from the Udemy course, 'Python for Time Series Data Analysis', by Jose Portilla.
 
+## SUMMARY
+- Use Python is primary language in this course.
+- Work with time stamped data, using Pandas for data preparation
+- Generate ACF and PACF charts together with ARIMA based models, including Exogenous data points.  
+- Apply Recurrent Neural Network (RNN) to forecast future data points.
+- Both ARIMA and RNN models predict time series data, using Sales dataset.
+
 ### Time Series with Pandas
   1. Time Series overview
   2. DateTime Index
@@ -24,7 +31,7 @@ All files are taken from the Udemy course, 'Python for Time Series Data Analysis
   6. VARMA - Vector Autoregression Integrated Moving Average
 
 ### Deep Learning - Forcasting Models
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RNN - Recurrent Neural Network
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RNN - Recurrent Neural Network
 
 ### Facebook's Prophet
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A library for time series analysis
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A library for time series analysis
